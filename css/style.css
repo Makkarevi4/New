@@ -114,11 +114,10 @@ float:right;
 .table{
   height: 510px;
   background-color: #ffffff;
+  width: 1020px;
+  margin: 0 auto;
 }
-.popkorn{
-  padding-left: 90px;
-  padding-right: 90px;
-}
+
 .forma{
   font-size: 45px;
   font-family: Trebuchet, sans-serif;
