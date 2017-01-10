@@ -1,0 +1,13 @@
+
+   @font-face {
+    font-family: Trebuchet; /* Гарнитура шрифта */
+    src: url(E:\Моё\JS\newsss\fonts\Trebuchet.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {font-family: "Tahoma";
+       src: url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.eot");
+       src: url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.eot?#iefix") format("embedded-opentype"),
+       url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.woff2") format("woff2"),
+       url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.woff") format("woff"),
+       url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.ttf") format("truetype"),
+       url("//db.onlinewebfonts.com/t/cd0381aa3322dff4babd137f03829c8c.svg#Tahoma") format("svg");
+   }
